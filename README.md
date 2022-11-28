@@ -1,0 +1,2 @@
+# kessoku-salmon
+first repo
